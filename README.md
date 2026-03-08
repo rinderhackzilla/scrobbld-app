@@ -44,7 +44,6 @@ Self-hosted Last.fm analytics dashboard with desktop mode, metadata enrichment, 
 
 - On app start, desktop checks for updates and only notifies when a newer version exists.
 - Manual check is available in Settings.
-- If you see `GitHub API returned 404`, no published release is available yet for the configured repo endpoint.
 
 ## Data and reset behavior
 
@@ -54,3 +53,4 @@ Self-hosted Last.fm analytics dashboard with desktop mode, metadata enrichment, 
 ## Where are ythe source files?
 
 I'm really lazy and I'll probably not upload the source files in the near future until everything is actually the way I want it.
+
